@@ -1,4 +1,4 @@
 for i in range(15):
     print("cool")
 
-print("Pankaj")
+print("panku no.1 hai")
